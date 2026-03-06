@@ -56,9 +56,6 @@
 
   </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/tldms0507?pet-id=1" width="1000" height="120"/>
-</a>
 
 <br/>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tldms0507&utm_content=farm">
