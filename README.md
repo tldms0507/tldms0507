@@ -5,7 +5,7 @@
 
 
 
-### SKILLS
+<h3 align="center"> 🛠 SKIILS </h3>
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +17,7 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-### LANGUAGES
+<h3 align="center"> ✅ LANGUAGES </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldms0507)](https://github.com/anuraghazra/github-readme-stats)
 
