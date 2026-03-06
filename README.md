@@ -42,7 +42,7 @@
 <h3 align="center"> 👩🏻‍💻 EXPERIENCE </h3>
  <ul>
     <li><a href="https://www.tave-wave.com">TAVE</a>  | 13th - 16th <sub>[2024.03 ~ 2026.01]</sub></li>
-    <li><a href="[https://www.souf.co.kr](https://www.souf.co.kr)">SOUF</a> | FE developer <sub>[2025.02 ~]</sub></li>
+    <li><a href="https://www.souf.co.kr">SOUF</a> | FE developer <sub>[2025.02 ~]</sub></li>
   </ul>
 
 <br/>
