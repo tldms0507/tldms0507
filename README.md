@@ -20,11 +20,10 @@
 
 <h3 align="center"> ✅ LANGUAGES </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldms0507)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tldms0507)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"> 📚 GITHUB STATS </h3>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
-</p>
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tldms0507&show_icons=true&theme=default)
 
 
