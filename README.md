@@ -49,7 +49,6 @@
 <h3 align="center"> 📊  GITHUB STATS </h3>
 
   <div>
-
   <img height=150 src="https://github-readme-stats-sigma-five.vercel.app/api?username=tldms0507&show_icons=true&theme=default")/>
 
 <img height=150 src="https://github-readme-stats-sable-nine-60.vercel.app/api/top-langs/?username=tldms0507&layout=compact&include_all_commits=true&exclude_repo=2024_MachineLearning,MovieReservation" alt="Top Langs">
@@ -58,10 +57,12 @@
 
 
 <br/>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tldms0507&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/tldms0507"
   width="600"
   height="300"
+  align="center"
 />
 </a>
