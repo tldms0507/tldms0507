@@ -46,8 +46,16 @@
 
 <br/>
 
-<h3 align="center"> 📚 GITHUB STATS </h3>
+<h3 align="center"> 📊  GITHUB STATS </h3>
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tldms0507&show_icons=true&theme=default)
+  <div>
+  <img height=150 src="https://github-readme-stats-sable-nine-60.vercel.app/api?username=tldms0507&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&hide=stars" alt="Anurag's GitHub stats">
+  <img height=150 src="https://github-readme-stats-sigma-five.vercel.app/api?username=tldms0507&show_icons=true&theme=default")/>
 
+<img height=150 src="https://github-readme-stats-sable-nine-60.vercel.app/api/top-langs/?username=tldms0507&layout=compact&include_all_commits=true&exclude_repo=2024_MachineLearning,MovieReservation" alt="Top Langs">
 
+  </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/tldms0507?pet-id=1" width="1000" height="120"/>
+</a>
