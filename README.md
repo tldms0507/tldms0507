@@ -1,4 +1,24 @@
-## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=79A7FE&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=79A7FE&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=79A7FE&height=150&section=header&text=Sieun's%20GitHub&fontSize=42" />
+
+## 프론트엔드 개발자, 김시은입니다
+
+
+
+### SKILLS
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+### LANGUAGES
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldms0507)](https://github.com/anuraghazra/github-readme-stats)
+
+
