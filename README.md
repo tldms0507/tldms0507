@@ -1,8 +1,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=79A7FE&height=150&section=header&text=Sieun's%20GitHub&fontSize=42" />
 
-## 프론트엔드 개발자, 김시은입니다
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:C6DAFF,100:97B9FA&width=1500&height=150&section=header&text=SIEUN's%20Github&fontSize=30&fontColor=ffffff)
 
+<h3 align="center"> 🏫 EDUCATION </h3>
+<div>서울과학기술대학교</div>
+<ul>
+  <li>2021.03 ~ 2026.02</li>
+  <li>산업정보시스템전공</li>
+</ul>
 
 
 <h3 align="center"> 🛠 SKIILS </h3>
@@ -18,9 +24,11 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 
-<h3 align="center"> ✅ LANGUAGES </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tldms0507)](https://github.com/tldms0507/github-readme-stats)
+<h3> 👩🏻‍💻 EXPERIENCE </h3>
+ <ul>
+    <li><a href="https://www.tave-wave.com">TAVE</a> 13th - 16th <sub>[2024.03 ~ 2026.01]</sub></li>
+    <li><a href="[https://raywatt.com](https://www.souf.co.kr)">SOUF</a> FE developer <sub>[2025.02 ~]</sub></li>
+  </ul>
 
 <h3 align="center"> 📚 GITHUB STATS </h3>
 
